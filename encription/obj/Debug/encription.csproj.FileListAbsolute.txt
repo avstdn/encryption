@@ -1,0 +1,5 @@
+c:\users\alexey\documents\visual studio 2015\Projects\encription\encription\bin\Debug\encription.exe.config
+c:\users\alexey\documents\visual studio 2015\Projects\encription\encription\bin\Debug\encription.exe
+c:\users\alexey\documents\visual studio 2015\Projects\encription\encription\bin\Debug\encription.pdb
+c:\users\alexey\documents\visual studio 2015\Projects\encription\encription\obj\Debug\encription.exe
+c:\users\alexey\documents\visual studio 2015\Projects\encription\encription\obj\Debug\encription.pdb
